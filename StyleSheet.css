@@ -1,0 +1,153 @@
+﻿body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+h1
+{
+	font-size: 24px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+}
+td.toplink1
+{
+	background-image: url(  'images/TopLink1.gif' );
+	vertical-align: middle;
+	text-align: center;
+}
+td.toplink2
+{
+	background-image: url( 'images/TopLink2.gif' );
+	vertical-align: middle;
+	text-align: center;
+}
+td.toplink3
+{
+	background-image: url( 'images/TopLink3.gif' );
+	vertical-align: middle;
+	text-align: center;
+}
+td.toplink4
+{
+	background-image: url( 'images/TopLink4.gif' );
+	vertical-align: middle;
+	text-align: center;
+}
+
+.lik
+{
+	color: #f53d23;
+	text-decoration: none;
+	font-size: small;
+	font-family: Calibri;
+}
+td.adrotator
+{
+	background-image: url( 'images/template088_10.gif' );
+	position: relative;
+}
+.LinkButton
+{
+	font-size: small;
+	font-family: Calibri;
+	text-decoration: none;
+	text-align: right;
+	vertical-align: middle;
+	color: #FFFFFF;
+}
+.sidebar
+{
+	background-color: #f1f2f4;
+}
+td.tlc
+{
+	background-image: url( 'images/corner_01.gif' );
+	background-repeat: no-repeat;
+	width: 6px;
+	height: 6px;
+}
+td.trc
+{
+	background-image: url( 'images/corner_02.gif' );
+	background-repeat: no-repeat;
+	width: 6px;
+	height: 6px;
+}
+td.blc
+{
+	background-image: url( 'images/corner_03.gif' );
+	background-repeat: no-repeat;
+	width: 6px;
+	height: 6px;
+}
+td.brc
+{
+	background-image: url( 'images/corner_04.gif' );
+	background-repeat: no-repeat;
+	width: 6px;
+	height: 6px;
+}
+td.t
+{
+	background-color: #f1f2f4;
+}
+
+.sidelink
+{
+	color: #fb680b;
+	font-family: Calibri;
+	font-size: small;
+}
+td.tb
+{
+	background-color: #640000;
+}
+.LT
+{
+	color: #fa7c25;
+	font-size: small;
+	font-family: Calibri;
+}
+td.content_page
+{
+	width: 550px;
+	background-color: #640000;
+	color: #FFFFFF;
+}
+.ContentArea
+{
+	vertical-align: top;
+	text-align: center;
+}
+marquee
+{
+	font-family: verdana;
+	font-weight: bold;
+	color: #06FF57;
+}
+a.mail
+{
+	font-family: calibri;
+	font-size: 12px;
+	color: #5BEE8E;
+	text-decoration: none;
+}
+li
+{
+	text-align: justify;
+}
+p
+{
+	text-align: justify;
+}
+a.forms_page
+{
+	color: #00FFFF;
+	font-size: 22px;
+}
+

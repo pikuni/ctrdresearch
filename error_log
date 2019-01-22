@@ -1,0 +1,12 @@
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 47
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 47
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thectrd/public_html/index.php on line 47
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(banner.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 53
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(banner.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 53
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thectrd/public_html/index.php on line 53
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(menu_left.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 67
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(menu_left.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 67
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(): Failed opening 'menu_left.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thectrd/public_html/index.php on line 67
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 111
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/thectrd/public_html/index.php on line 111
+[03-May-2016 06:18:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thectrd/public_html/index.php on line 111
